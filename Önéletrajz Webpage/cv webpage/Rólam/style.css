@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&family=Reddit+Mono:wght@200..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.container {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -140%);
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    margin-top:50px
+    
+    
+}
+
+body{
+    color:#0C54DF;
+background-image: url(bf9a415f-b758-4c0d-a820-334370772ec3.jpg);
+background-size: cover;
+margin-left: 80px;
+margin-right: 80px;
+margin-top:20px ;
+font-family: "Montserrat", sans-serif;
+}
+
+img{
+    height: 179px;
+    float:left;
+    transform: translate(-20%, -10%);
+   
+}
+
+button{
+    float: right;
+    font-size: 30px;
+}
+
+.elerhetoseg{
+    float:right;
+    transform: translate(-20%, -230%);
+}
+
+
+
+.telephoneandemail{
+float:right;
+font-size: 20px;
+
+
+width: 100%;
+    margin-right: 0px;
+    margin-left: auto;
+
+
+
+
+
+border: 3px solid black;
+}
+
+.rolam{
+    border: 1px solid black;
+    font-size:20px
+}
+
+.hobbitemak{
+    border: 1px solid black;
+    margin-left: auto;
+  margin-right: auto;
+  font-size:20px;
+  transform: translate(5%,-100%);
+}
+
+.canva{
+    float:right;
+    font-size:20px;
+    border: 1px solid black;
+    transform: translate(5%,-70%);
+}
+
+.vline{
+    height: 300px;
+         width: 3px;
+         background-color: #3b0404;
+         float:right;
+}
+
+
+
+
+.vline2{
+    height: 500px;
+    width: 3px;
+    background-color: #3b0404;
+    border-left: 1px #3b0404
+
+}
+
+hr{
+    width: 50%;
+    margin-right: 0px;
+    margin-left: auto;
+font-size:20px;
+
+
+
+
+border: 3px solid black;
+}
+
+
+
+
+.textbox{
+    border: 1px solid black;
+    width: 500px;
+   margin-top:250px;
+   text-align:left;
+   font-size: 20px;
+}
+
+.verticalline{
+
+    border-left: 3px solid black;
+    height: 500px;
+    position:absolute;
+    ;
+margin-left: 525px;
+margin-top:-145px;
+position:absolute;
+
+
+}
+
+.iskola{
+    text-align:right;
+    border:1px solid black;
+    font-size: 20px;
+width:550px;
+text-align:right;
+margin-left:550px;
+margin-top: -140px;
+position:absolute;
+
+
+
+
+
+
+}
+
+.otthonkep{
+margin-left:130px;
+height: auto;
+
+  max-width: 100%;
+
+margin-top: 40px;
+}
+
+.bethlen{
+
+width: 30px;
+margin-left: 847px;
+margin-top: 180px;
+position:absolute;
+}
+
+.mora{
+margin-left:600px;
+margin-top:180px;
+position: absolute;
+
+}
+
+
+
+
+
+
+
